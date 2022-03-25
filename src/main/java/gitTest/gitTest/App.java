@@ -23,6 +23,7 @@ public class App
         System.out.println( "king받넴......ㅋ" );
         System.out.println( "kkkkking 받 쥬~?????ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
         System.out.println( "kkkkking 받 쥬~?????ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
+        System.out.println( "어쩔티비~~~~~~~저쩔티비~~~~~~~ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
 
     }
 }

@@ -20,6 +20,7 @@ public class App
         System.out.println( "Hello tttttttt!" );
         System.out.println( "Hello vvvvvvv" );
         System.out.println( "qqqqqq" );
+        System.out.println( "king받넴......ㅋ" );
 
     }
 }

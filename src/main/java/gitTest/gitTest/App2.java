@@ -11,5 +11,6 @@ public class App2
         System.out.println( "Hello World!" );
         System.out.println( "Hello gggggggWorld!" );
         System.out.println( "oooooooooooooppppppp!" );
+        System.out.println( "Hello World!" );
     }
 }

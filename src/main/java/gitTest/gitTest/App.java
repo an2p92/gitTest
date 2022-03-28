@@ -10,22 +10,13 @@ public class App
     {
         System.out.println( "qqqqqq" );
         System.out.println( "qqqqqq" );
-        System.out.println( "HIHIHIHIHIHIHI" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "aaaaa" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello tttttttt!" );
-        System.out.println( "Hello tttttttt!" );
-        System.out.println( "Hello vvvvvvv" );
-        System.out.println( "qqqqqq" );
-        System.out.println( "king받넴......ㅋ" );
-        System.out.println( "kkkkking 받 쥬~?????ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
-        System.out.println( "kkkkking 받 쥬~?????ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
-        System.out.println( "어쩔티비~~~~~~~저쩔티비~~~~~~~ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
-        System.out.println( "어쩔냉장고,,," );
-        System.out.println( "업데이트, 확인 바람 " );
+        System.out.println( "금요일.....넘흐 무섭다" );
+        System.out.println( "우아아아아아 d-3" );
+        System.out.println( "나는.........과연.................... " );
+        
+        
+        
+        
 
     }
 }

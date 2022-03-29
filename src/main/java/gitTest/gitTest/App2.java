@@ -15,5 +15,11 @@ public class App2
         System.out.println( "야호!" );
         System.out.println( "0ㅂ0!" );
         
+        System.out.println( "으아아아아아앗!" );
+        System.out.println( "d-2일" );
+        System.out.println( "0ㅂ0으아아아아아악 무섭드아!!!!!!!!!!!!!" );
+        
+        
+        
     }
 }

@@ -22,6 +22,10 @@ public class App
         System.out.println( "bbbbbbbb" );
         System.out.println( "cccccccc" );
         
+        System.out.println( "꺄아아아아아아아아아아아아" );
+        System.out.println( "bbbbbbbb" );
+        System.out.println( "cccccccc" );
+        
 
     }
 }

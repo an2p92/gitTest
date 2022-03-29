@@ -25,6 +25,9 @@ public class App
         System.out.println( "Aㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ" );
         System.out.println( "BㅏBㅗ" );
         
+        System.out.println( "으아아아아아아아아아아" );
+        System.out.println( "D-4" );
+        
 
     }
 }

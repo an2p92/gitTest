@@ -19,6 +19,8 @@ public class App2
         System.out.println( "d-2일" );
         System.out.println( "0ㅂ0으아아아아아악 무섭드아!!!!!!!!!!!!!" );
         
+        System.out.println( "비가오는날엔~~~~~~~!" );
+        
         
         
     }

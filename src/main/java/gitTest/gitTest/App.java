@@ -11,10 +11,6 @@ public class App
         System.out.println( "qqqqqq" );
         System.out.println( "qqqqqq" );
         
-        System.out.println( "금요일에...." );
-        System.out.println( "후기 알려드림.." );
-        System.out.println( "후하....ㅋㅋㅋㅋㅋ" );
-        
         System.out.println( "aaaaaaaa" );
         System.out.println( "bbbbbbbb" );
         System.out.println( "cccccccc" );

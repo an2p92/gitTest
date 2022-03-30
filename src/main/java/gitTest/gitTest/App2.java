@@ -24,6 +24,7 @@ public class App2
         
         System.out.println( "전 대빵큰 장우산도있구요" );
         System.out.println( "지갑도 들고왔는데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ" );
+        System.out.println( "비오는날엔 피전에 막걸리!!꾸에에에에!!!!!!!!!!!!!!" );
         
         
         

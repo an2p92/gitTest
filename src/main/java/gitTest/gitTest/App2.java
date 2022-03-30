@@ -22,6 +22,9 @@ public class App2
         System.out.println( "비가오는날엔~~~~~~~!" );
         System.out.println( "우산 안가져옴 ;; 아  지갑도 안가져왔다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
         
+        System.out.println( "전 대빵큰 장우산도있구요" );
+        System.out.println( "지갑도 들고왔는데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ.ㅋ" );
+        
         
         
     }

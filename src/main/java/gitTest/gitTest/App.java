@@ -10,26 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        System.out.println( "그만하시오 이제 " );
-        
-        
-        System.out.println( "aaaaaaaa" );
         System.out.println( "bbbbbbbb" );
         System.out.println( "cccccccc" );
         

@@ -27,6 +27,25 @@ public class App2
         System.out.println( "비오는날엔 피전에 막걸리!!꾸에에에에!!!!!!!!!!!!!!" );
         
         
+        System.out.println( "Hello gggggggWorld!" );
+        System.out.println( "oooooooooooooppppppp!" );
+        
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
+        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
         
     }
 }

@@ -18,6 +18,9 @@ public class App2
         
         System.out.println( "test by shin" );
         System.out.println( "test by shin" );
+        System.out.println( "test by wook" );
+        System.out.println( "test by wook" );
+        
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         
         System.out.println( "git test!" );
@@ -43,11 +46,7 @@ public class App2
         System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
         System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
         System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
+        
         
     }
 }

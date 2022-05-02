@@ -11,17 +11,14 @@ public class App2
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         
-<<<<<<< HEAD
         System.out.println( "aabranch~~~~~~~~~~" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         
-=======
         System.out.println( "test by shin" );
         System.out.println( "test by shin" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
->>>>>>> shinBranch
         
         System.out.println( "git test!" );
         System.out.println( "야호!" );

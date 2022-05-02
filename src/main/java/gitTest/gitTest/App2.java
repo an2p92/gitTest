@@ -21,6 +21,8 @@ public class App2
         System.out.println( "야호!" );
         System.out.println( "0ㅂ0!" );
         
+        System.out.println( "안녕하세요 먼저 테스트!");
+        
         System.out.println( "우산 안가져옴 ;; 아  지갑도 안가져왔다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ" );
         
         System.out.println( "전 대빵큰 장우산도있구요" );

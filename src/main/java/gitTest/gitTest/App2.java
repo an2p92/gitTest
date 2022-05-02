@@ -11,10 +11,10 @@ public class App2
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         
-        System.out.println( "aabranch~~~~~~~~~~" );
-        System.out.println( "수정한부분입니다~~~~~~~~~~" );
-        System.out.println( "수정한부분입니다~~~~~~~~~~" );
-        System.out.println( "수정한부분입니다~~~~~~~~~~" );
+        System.out.println( "test1" );
+        System.out.println( "test2" );
+        System.out.println( "test3" );
+        System.out.println( "test4" );
         
         System.out.println( "test by shin" );
         System.out.println( "test by shin" );
@@ -40,13 +40,7 @@ public class App2
         System.out.println( "oooooooooooooppppppp!" );
         
         System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
-        System.out.println("와우~~~~~~~~~~~~~~~~~~~월요일~~~~~~~~~");
         System.out.println("와우~~~~~~~~~~~~~~~~~~~수요일이다ㅏㅏㅏㅏㅏㅏㅏㅏ");
-        
         
     }
 }

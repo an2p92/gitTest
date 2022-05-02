@@ -11,8 +11,8 @@ public class App2
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         
-        System.out.println( "이건 testbranch~~" );
-        System.out.println( "수정한부분입니다~~~~~~~~~~" );
+        System.out.println( "test by shin" );
+        System.out.println( "test by shin" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         
         System.out.println( "git test!" );

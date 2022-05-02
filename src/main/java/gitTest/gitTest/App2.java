@@ -14,22 +14,6 @@ public class App2
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분에 또 수정입니다아아아아아아아~~~~~~~~~~" );
-        System.out.println( "수정한부분입니다~~~~~~~~~~" );
-        System.out.println( "수정한부분입니다~~~~~~~~~~" );
         System.out.println( "수정한부분입니다~~~~~~~~~~" );
         
         

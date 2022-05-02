@@ -12,8 +12,6 @@ public class App
         System.out.println( "2022-05-02ddldlldldldldl" );
         System.out.println( "bbbbbbbb" );
         System.out.println( "cccccccc" );
-        
-        
         System.out.println( "으아아아아아아아아아아" );
         System.out.println( "D-4" );
         System.out.println( "qqqqqq" );

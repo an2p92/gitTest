@@ -12,7 +12,7 @@ public class App2
         System.out.println("test");
         System.out.println("test");
         System.out.println("test");
-        System.out.println("test");
+        System.out.println("dkdkdkkdkdk여기는 테스트브런치ㅣㅣㅣㅣㅣ");
         System.out.println("test");
         System.out.println("test");
         System.out.println("test");

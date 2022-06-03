@@ -12,5 +12,6 @@ public class App2
         System.out.println( "aaaaa" );
         System.out.println( "Hello2 Hello2 Hello2 Hello2" );
         System.out.println( "Hello3 Hello3 Hello3 Hello3" );
+        System.out.println( "test1" );
     }
 }

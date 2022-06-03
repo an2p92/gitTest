@@ -16,7 +16,7 @@ public class App
         System.out.println( "D-4" );
         System.out.println( "qqqqqq" );
         System.out.println( "wwwwww" );
-        System.out.println( "여기는 테테테ㅔ테테테테ㅔ테" );
+        System.out.println( "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 테테테ㅔ테테테테ㅔ테" );
         System.out.println( "wwwwww" );
         System.out.println( "wwwwww" );
         System.out.println( "wwwwww" );

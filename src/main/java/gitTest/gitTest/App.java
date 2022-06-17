@@ -14,5 +14,9 @@ public class App
         System.out.println( "Hello2 Hello2 Hello2 Hello2" );
         System.out.println( "test1" );
         System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
     }
 }

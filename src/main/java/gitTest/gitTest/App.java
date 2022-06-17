@@ -21,5 +21,6 @@ public class App
         System.out.println( "git 브런티 테스트ㅡㅡㅡㅡㅡㅡㅡ" );
         System.out.println( "ddddddddddddssssssssssssssss" );
         System.out.println( "ddddddddddddssssssssssssssssdddssssssssssssssss" );
+        System.out.println( "가나다라마바사아자차카타파하" );
     }
 }

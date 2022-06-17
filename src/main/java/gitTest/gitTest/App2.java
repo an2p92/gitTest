@@ -18,5 +18,6 @@ public class App2
         System.out.println( "오늘은 금요일" );
         System.out.println( "오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일~~" );
         System.out.println( "가나다라마바사아자차카타파하" );
+        System.out.println( "zyxzyxzyxzyx" );
     }
 }

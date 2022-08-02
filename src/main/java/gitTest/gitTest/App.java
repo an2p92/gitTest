@@ -25,7 +25,7 @@ public class App
         System.out.println("XZczxxz");
         System.out.println( "abcabcabcabc");
         System.out.println( "abcabcabcabc");
-        System.out.println( "abcabcabcabc");
+        System.out.println( "브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치브런치");
         System.out.println( "abcabcabcabc");
         System.out.println( "abcabcabcabc");
         System.out.println( "abcabcabcabc");

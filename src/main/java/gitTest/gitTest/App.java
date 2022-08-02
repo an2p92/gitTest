@@ -24,5 +24,11 @@ public class App
         System.out.println( "가나다라마바사아자차카타파하" );
         System.out.println("XZczxxz");
         System.out.println( "abcabcabcabc");
+        System.out.println( "abcabcabcabc");
+        System.out.println( "abcabcabcabc");
+        System.out.println( "abcabcabcabc");
+        System.out.println( "abcabcabcabc");
+        System.out.println( "abcabcabcabc");
+        System.out.println( "abcabcabcabc");
     }
 }

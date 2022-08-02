@@ -16,6 +16,10 @@ public class App2
         System.out.println( "test2" );
         System.out.println( "안녕하세요 test~" );
         System.out.println( "오늘은 금요일" );
+        System.out.println( "오늘은 금요일" );
+        System.out.println( "오늘은 금요일" );
+        System.out.println( "오늘은 금요일" );
+        System.out.println( "오늘은 금요일" );
         System.out.println( "오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일오늘은 금요일~~" );
         System.out.println( "가나다라마바사아자차카타파하" );
         System.out.println( "zyxzyxzyxzyx" );

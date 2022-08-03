@@ -31,5 +31,9 @@ public class App
         System.out.println( "abcabcabcabc");
         System.out.println( "abcabcabcabc");
         //ejr추가
+        //ㅁㄴㅇㅁㅇㅁㄴㅇㅁㄴㅇ
+        //ㅁㄴㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㄴㅁㅇㅁㅇ
+        //ㅁㄴㅇㅁㄴㅇㄴㅁ롱너ㅣㄹㄴ어ㅣ랑ㄴㄹ
+        //ㅁㄴㅇㅁㄴ러ㅗㄴ어ㅏ롱나ㅓ로너ㅏㅣㄹㅇㄹ
     }
 }

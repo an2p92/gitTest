@@ -8,6 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
+    	System.out.println("branch 테스트");
+    	System.out.println("branch 테스트");
+    	
         System.out.println( "Hello World!" );
         System.out.println( "2022-05-02ddldlldldldldl" );
         System.out.println( "Hello Hello Hello Hello" );

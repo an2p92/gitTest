@@ -8,7 +8,10 @@ public class App2
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	System.out.println("branch 테스트");
+    	System.out.println("branch 테스트");
+
+    	System.out.println( "Hello World!" );
         System.out.println( "aaaaa" );
         System.out.println( "Hello2 Hello2 Hello2 Hello2" );
         System.out.println( "Hello3 Hello3 Hello3 Hello3" );

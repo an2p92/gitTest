@@ -23,6 +23,15 @@ public class App
         System.out.println( "안녕하세요 test~" );
         System.out.println( "안녕하세요 test~" );
         System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
+        System.out.println( "안녕하세요 test~" );
         System.out.println( "git 브런티 테스트ㅡㅡㅡㅡㅡㅡㅡ" );
         System.out.println( "ddddddddddddssssssssssssssss" );
         System.out.println( "ddddddddddddssssssssssssssssdddssssssssssssssss" );

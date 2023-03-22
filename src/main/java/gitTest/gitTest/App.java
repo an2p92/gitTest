@@ -13,5 +13,6 @@ public class App
     	System.out.println("merge 테스트");
     	System.out.println("merge 테스트");
     	System.out.println("브런치 테스트");
+    	System.out.println("여기는 aa브런치 입니다");
     }
 }
